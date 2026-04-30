@@ -22,13 +22,17 @@ A professional and lightweight E-commerce application developed using **Java** a
   - `CardView` & `Material Components` for a modern look.
   - `Intent` system for seamless navigation between activities.
 
-## 📸 Screenshots
+## 📱 App Screenshots
 
-| Home Screen | Product Details | Dark Mode |
+Here are the visual highlights of the Simple E-Commerce App:
+
+| Login Screen | Create Account | Home Page |
 | --- | --- | --- |
-| ![Home](https://via.placeholder.com/200) | ![Details](https://via.placeholder.com/200) | ![Dark](https://via.placeholder.com/200) |
-*(Tip: Replace these placeholders with your actual app screenshots)*
+| ![Login](Project%20Summary%20Image/login.jpeg) | ![Signup](Project%20Summary%20Image/Create%20a%20account.jpeg) | ![Home](Project%20Summary%20Image/Shoping_Home_page.jpeg) |
 
+| Order Confirmation | Checkout Process |
+| --- | --- |
+| ![Order](Project%20Summary%20Image/Confrom%20Order.jpeg) | ![Checkout](Project%20Summary%20Image/proceed%20to%20checkout.jpeg) |
 ## 🚀 Getting Started
 
 To get a local copy up and running, follow these simple steps:
