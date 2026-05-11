@@ -339,7 +339,7 @@ This project is developed for:
 
 # 👨‍💻 Developer
 
-## Md Nasim Hawlader
+## Md Nasim Hawladar
 
 B.Sc. in Computer Engineering
 
